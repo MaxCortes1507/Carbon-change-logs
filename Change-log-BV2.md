@@ -10,4 +10,4 @@
 - Added significant figures to all outputs
 - Fixed unit system
 - Revamped the interpreter
-- fixed pH calculations for high concentrations
+- fixed pH calculations for small Ks values
