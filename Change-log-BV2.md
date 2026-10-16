@@ -1,0 +1,13 @@
+- Added help functions
+- Changed all input/output fields to render as laTeX 
+- Added configurble pKs/pKb tables
+- Added configurble accent color
+- Added unit calculations to all pages
+- Fixed units in "mængde beregning"
+- Added pH to concentration calculations
+- Changed balance reaction to include redox
+- Removed shipping of google service acount + private key 
+- Added significant figures to all outputs
+- Fixed unit system
+- Revamped the interpreter
+- fixed pH calculations for high concentrations
